@@ -1,0 +1,2 @@
+This data comes from one of the United States Geological Survey’s earthquake data feeds, which you can find at https://earthquake.usgs
+.gov/earthquakes/feed/.
